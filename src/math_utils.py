@@ -1,5 +1,5 @@
 def divide(a: int, b: int) -> float:
-    """Return the result of a division operation between two integers.
+    """Return the result of a division operation between two numbers.
 
     Args:
         a (int): The numerator.
